@@ -1,0 +1,21 @@
+{
+    "capabilities": [
+        ""
+    ],
+    "uuid": "07affc89-9205-46a8-af62-5be108bb9fb7",
+    "resources": {
+        "media": []
+    },
+    "longName": "pebble_weather",
+    "watchapp": {
+        "watchface": false
+    },
+    "companyName": "Shishir Kanodia",
+    "shortName": "pebble_weather",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "appKeys": {
+        "message": 1,
+        "status": 0
+    }
+}
